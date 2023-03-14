@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Umut Tufanoglu.
+My name is Umut.
 
 Have a look at my new homepage at [umuttufanoglu.dev](https://umuttufanoglu.dev/)
 
